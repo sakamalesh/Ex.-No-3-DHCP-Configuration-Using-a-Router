@@ -62,9 +62,15 @@ Router(dhcp-config)# dns-server 8.8.8.8<br>
 Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
-•	DHCP IP configuration shown in PC0 and PC1<br>
-•	Router configuration screen<br>
-•	Successful ping test between the two PCs<br>
+<img width="727" height="662" alt="image" src="https://github.com/user-attachments/assets/0b0f8178-2ddd-46e9-bd7c-ebc6e25419eb" />
+<img width="857" height="758" alt="image" src="https://github.com/user-attachments/assets/dda599ee-b8ff-4fba-a31d-554283f7f4b5" />
+<img width="866" height="782" alt="image" src="https://github.com/user-attachments/assets/d181ac15-bb78-4e12-ac48-8c209ca9f472" />
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/7dbb7dbb-4ae2-48f5-8abf-4b417c9197d1" />
+<img width="1142" height="695" alt="image" src="https://github.com/user-attachments/assets/9476ac07-14db-424a-b50a-d834a914e563" />
+
+
+
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
